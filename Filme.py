@@ -4,7 +4,7 @@ import requests
 class Movie():
     def __init__(self):
         #api_key, necessario para usar a api
-        self.__api_key = "2aa83a7e309150394c61729525230237"
+        self.__api_key = ""
         self.nome = ""
         self.original_title = ""
         self.data_lancamento = ""
